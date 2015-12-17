@@ -1,2 +1,2 @@
-# html-template
+# Html-Template
 Standard HTML Page Template
